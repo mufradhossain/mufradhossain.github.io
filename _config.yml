@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: fas fa-globe
 
 # Content configuration version
 version: 2
@@ -8,21 +8,21 @@ version: 2
 # Personal info
 name: Sheikh Mufrad Hossain
 title: Data Analyst
-email: sheikh.mufrad.hossain
+email: sheikh.mufrad.hossain@gmail.com
 website: https://mufradhossain.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: SheikhMufrad
+linkedin_username: sheikhmufrad
 github_username:  mufradhossain
+twitter_username: SheikhMufrad
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: mufrad.hossain
 # flickr_username: jekyll
 instagram_username: mufrad.hossain
-linkedin_username: sheikhmufrad
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: sheikhmufrad
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Mufrad and I am a hardworking CSE undergrad specializing in Data Analysis. I am interested in Machine Learning and Artificial Intelligence
 
-  I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Google Data Studio</mark>
 
 content:
   - title: Projects # Title for the section
