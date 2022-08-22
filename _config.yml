@@ -60,9 +60,11 @@ content:
         title: Daffodil International University
         caption: 2019 - Present
         sub_title: B.Sc. in Computer Science & Engineering
-        quote: >
-          CGPA 3.73 (till Summer 2022)
+        #quote: >
+        #  CGPA 3.73 (till Summer 2022)
         description: | # this will include new lines to allow paragraphs
+          *CGPA 3.73 (till Summer 2022)*
+
           **Courses**
           - Artificial Intelligence
           - Data Mining and Machine Learning
@@ -78,16 +80,16 @@ content:
         title: Milestone College
         caption: 2016 - 2017
         sub_title: H.S.C.
-        quote: >
-          Dhaka Board, GPA 5 (Science Group)
+        #quote: >
+        #  Dhaka Board, GPA 5 (Science Group)
         description: | # this will include new lines to allow paragraphs
-
+          *Dhaka Board, GPA 5 (Science Group)*
 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top
         title: Facial Recognition based Attendance System
         #link: github.com/sproogen
         # link_text: Project Website
@@ -101,31 +103,31 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Attendance management system built on <mark>PyQt5</mark> with <mark>SQLite</mark> and <mark>OpenCV</mark> facial recognition algorithm Deep Learning Image 
+          Attendance management system built on PyQt5 with SQLite and OpenCV facial recognition algorithm Deep Learning Image 
       - layout: top
         title: Image Caption Generator
         description: | # this will include new lines to allow paragraphs
-          Image caption generator created using the <mark>OpenCV</mark> library and <mark>Tensor Flow</mark> (Keras)
+          Image caption generator created using the OpenCV library and Tensor Flow (Keras)
       - layout: top
         title: Analytics Dashboard
         description: | # this will include new lines to allow paragraphs
-          An analytical visualization of data from Google Analytics with <mark>Google Data Studio</mark> 
+          An analytical visualization of data from Google Analytics with Google Data Studio
       - layout: top
         title: Weather Forecast Application
         description: | # this will include new lines to allow paragraphs
-          Weather forecast application for desktop developed with <mark>tkinter</mark> using the OpenWeatherMap API
+          Weather forecast application for desktop developed with tkinter using the OpenWeatherMap API
       - layout: top
         title: Food Ordering System
         description: | # this will include new lines to allow paragraphs
-          <mark>Web-based</mark> app to receive and process food orders in restaurants
+          Web-based app to receive and process food orders in restaurants
       - layout: top
         title: Remote Controlled Robot
         description: | # this will include new lines to allow paragraphs
-          <mark>Arduino</mark> based robot that can be controlled over Bluetooth using custom android app
+          Arduino based robot that can be controlled over Bluetooth using custom android app
       - layout: top
         title: Parking Management System
         description: | # this will include new lines to allow paragraphs
-          Parking management system prepared using <mark>C</mark> programming language
+          Parking management system prepared using C programming language
 
 
       #- layout: top-middle
@@ -144,9 +146,25 @@ content:
       #  description: | # this will include new lines to allow paragraphs
       #    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: Extracurricular Activity # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: DIU Battle of Minds 2.0
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Team Mentor
+        caption: 02/2020
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            *Daffodil International University*
+            *Dhaka, Bangladesh*
+            **Achievements/Tasks**
+            - Speech Presentation Grooming
+            - Appearance Grooming
+            - Video Content Editing
+
       - layout: left
         title: The Boring Company
         link: boringcompany.com
