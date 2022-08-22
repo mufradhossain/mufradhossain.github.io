@@ -9,7 +9,7 @@ version: 2
 name: Sheikh Mufrad Hossain
 title: Data Analyst
 email: sheikh.mufrad.hossain@gmail.com
-website: https://mufradhossain.github.io/
+website: mufradhossain.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -99,6 +99,36 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Education # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Daffodil International University
+          caption: 2019 - Present
+          sub_title: B.Sc. in Computer Science & Engineering
+          quote: >
+            CGPA 3.73 (till Summer 2022)
+          description: | # this will include new lines to allow paragraphs
+            Courses
+            - Artificial Intelligence
+            - Data Mining and Machine Learning
+            - Big Data and IoT
+            - Micro-Processor, Embedded Systems and IoT
+            - Database Management System
+            - Software Engineering
+            - Data Structure
+            - Algorithm
+            - Basic Functional English and English Spoken
+            - Computer Networks
+        - layout: left
+                title: Milestone College
+                caption: 2016 - 2017
+                sub_title: H.S.C.
+                quote: >
+                  Dhaka Board, GPA 5 (Science Group)
+                description: | # this will include new lines to allow paragraphs
+                
+
 
   - title: A Little More About Me
     layout: text
@@ -115,6 +145,7 @@ content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
+references_title: 2022
 
 # Build settings
 remote_theme: sproogen/resume-theme
