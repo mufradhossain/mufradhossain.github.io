@@ -102,27 +102,27 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Attendance management system built on <mark>PyQt5</mark> with <mark>SQLite</mark> and <mark>OpenCV</mark> facial recognition algorithm Deep Learning Image 
-      - layout: left
+      - layout: top-left
         title: Image Caption Generator
         description: | # this will include new lines to allow paragraphs
           Image caption generator created using the <mark>OpenCV</mark> library and <mark>Tensor Flow</mark> (Keras)
-      - layout: left
+      - layout: top-left
         title: Analytics Dashboard
         description: | # this will include new lines to allow paragraphs
           An analytical visualization of data from Google Analytics with <mark>Google Data Studio</mark> 
-      - layout: left
+      - layout: top-left
         title: Weather Forecast Application
         description: | # this will include new lines to allow paragraphs
           Weather forecast application for desktop developed with <mark>tkinter</mark> using the OpenWeatherMap API
-      - layout: left
+      - layout: top-left
         title: Food Ordering System
         description: | # this will include new lines to allow paragraphs
           <mark>Web-based</mark> app to receive and process food orders in restaurants
-      - layout: left
+      - layout: top-left
         title: Remote Controlled Robot
         description: | # this will include new lines to allow paragraphs
           <mark>Arduino</mark> based robot that can be controlled over Bluetooth using custom android app
-      - layout: left
+      - layout: top-left
         title: Parking Management System
         description: | # this will include new lines to allow paragraphs
           Parking management system prepared using <mark>C</mark> programming language
