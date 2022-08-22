@@ -121,12 +121,12 @@ content:
           - Basic Functional English and English Spoken
           - Computer Networks
       - layout: left
-              title: Milestone College
-              caption: 2016 - 2017
-              sub_title: H.S.C.
-              quote: >
-                Dhaka Board, GPA 5 (Science Group)
-              description: | # this will include new lines to allow paragraphs
+        title: Milestone College
+        caption: 2016 - 2017
+        sub_title: H.S.C.
+        quote: >
+          Dhaka Board, GPA 5 (Science Group)
+        description: | # this will include new lines to allow paragraphs
 
 
 
