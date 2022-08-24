@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: mufradhossain.github.io
 favicon: fas fa-globe
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sheikh Mufrad Hossain
-title: Data Analyst
+title: Data Analytics | Python | SQL | Data Studio
 email: sheikh.mufrad.hossain@gmail.com
 website: mufradhossain.github.io
 
@@ -219,14 +219,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in data science and machine learning some of my other interests and hobbies are:
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Live Game Streaming
+      - Football
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    # Look at this cool image  
+    #  ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
