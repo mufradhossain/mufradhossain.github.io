@@ -46,7 +46,7 @@ instagram_username: mufrad.hossain
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Mufrad and I am a hardworking CSE undergrad specializing in Data Analysis. I am interested in Machine Learning and Artificial Intelligence
 
@@ -181,9 +181,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: 6th World Conference on Smart Trends in Systems, Security, and Sustainability (2022)
+        description: | # this will include new lines to allow paragraphs
+          *Digitally presented a paper titled Impact Prediction of Online Education during COVID-19 using Machine Learning: A Case Study*
+      - layout: top
         title: University of South Dakota's first AI Symposium (2021)
         description: | # this will include new lines to allow paragraphs
           *Participated in USD's first three-day Artificial Intelligence Symposium*
+      - layout: top
+        title: DIU Battle of Minds 2.0 (2020)
+        description: | # this will include new lines to allow paragraphs
+          *Member of the mentor team in the business idea pitch competition*
       - layout: top
         title: DIU TAKE OFF Programming Contest (2019)
         description: | # this will include new lines to allow paragraphs
@@ -192,10 +200,7 @@ content:
         title: The International Collegiate Programming Contest (2019)
         description: | # this will include new lines to allow paragraphs
           *Participated in Regional Contest in the ICPC*
-      - layout: top
-        title: DIU Battle of Minds 2.0 (2020)
-        description: | # this will include new lines to allow paragraphs
-          *Member of the mentor team in the business idea pitch competition*
+
 
   - title: Skills
     layout: text
