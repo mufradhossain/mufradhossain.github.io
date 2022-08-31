@@ -90,6 +90,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: Bangla Sign Language Recognition
+        description: | # this will include new lines to allow paragraphs
+          Recognition of Bangla Sign Language using Machine Learning and Mediapipe
+      - layout: top
         title: Facial Recognition based Attendance System
         #link: github.com/sproogen
         # link_text: Project Website
