@@ -185,6 +185,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: Process Data from Dirty to Clean
+        description: | # this will include new lines to allow paragraphs
+          *Completed the Process Data from Dirty to Clean course from Google Data Analytics Professional Certificate*
+      - layout: top
+        title: Prepare Data for Exploration
+        description: | # this will include new lines to allow paragraphs
+          *Completed the Prepare Data for Exploration course from Google Data Analytics Professional Certificate*
+      - layout: top
+        title: Ask Questions to Make Data-Driven Decisions
+        description: | # this will include new lines to allow paragraphs
+          *Completed the Ask Questions to Make Data-Driven Decisions course from Google Data Analytics Professional Certificate*
+      - layout: top
+        title: 'Foundations: Data, Data, Everywhere'
+        description: | # this will include new lines to allow paragraphs
+          *Completed the Foundations: Data, Data, Everywhere course from Google Data Analytics Professional Certificate*
+      - layout: top
         title: 6th World Conference on Smart Trends in Systems, Security, and Sustainability (2022)
         description: | # this will include new lines to allow paragraphs
           *Digitally presented a paper titled Impact Prediction of Online Education during COVID-19 using Machine Learning: A Case Study*
