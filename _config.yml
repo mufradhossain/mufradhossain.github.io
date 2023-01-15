@@ -63,7 +63,7 @@ content:
         #quote: >
         #  CGPA 3.73 (till Summer 2022)
         description: | # this will include new lines to allow paragraphs
-          *CGPA 3.73 (till Summer 2022)*
+          *CGPA 3.74 2023*
 
           **Courses**
           - Artificial Intelligence
@@ -185,21 +185,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: Process Data from Dirty to Clean
+        title: 'Google Data Analytics Specialization'
         description: | # this will include new lines to allow paragraphs
-          *Completed the Process Data from Dirty to Clean course from Google Data Analytics Professional Certificate*
-      - layout: top
-        title: Prepare Data for Exploration
-        description: | # this will include new lines to allow paragraphs
-          *Completed the Prepare Data for Exploration course from Google Data Analytics Professional Certificate*
-      - layout: top
-        title: Ask Questions to Make Data-Driven Decisions
-        description: | # this will include new lines to allow paragraphs
-          *Completed the Ask Questions to Make Data-Driven Decisions course from Google Data Analytics Professional Certificate*
-      - layout: top
-        title: 'Foundations: Data, Data, Everywhere'
-        description: | # this will include new lines to allow paragraphs
-          *Completed the Foundations: Data, Data, Everywhere course from Google Data Analytics Professional Certificate*
+          *Completed the Foundations: Data, Data, Everywhere,
+          Ask Questions to Make Data-Driven Decisions,
+          Prepare Data for Exploration,
+          Process Data from Dirty to Clean,
+          Analyze Data to Answer Questions,
+          Share Data Through the Art of Visualization,
+          Data Analysis with R Programming,
+          and Google Data Analytics Capstone: Complete a Case Study
+          courses from Google Data Analytics Professional Certificate*
       - layout: top
         title: 6th World Conference on Smart Trends in Systems, Security, and Sustainability (2022)
         description: | # this will include new lines to allow paragraphs
