@@ -1,18 +1,17 @@
 # Site
 repository: mufradhossain.github.io
-favicon: fas fa-globe
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
 name: Sheikh Mufrad Hossain
-title: Data Analytics | Python | SQL | Data Studio
+title: Data Scientist
 email: sheikh.mufrad.hossain@gmail.com
-website: mufradhossain.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 linkedin_username: sheikhmufrad
@@ -48,34 +47,72 @@ instagram_username: mufrad.hossain
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mufrad and I am a hardworking CSE undergrad specializing in Data Analysis. I am interested in Machine Learning and Artificial Intelligence
-
-  I am most skilled in: <mark>Python</mark> and <mark>Google Data Studio</mark>
+ Hey there! I'm Mufrad, a data enthusiast with a knack for turning raw data into powerful insights. With experience in data science, data analysis, and product management, I love using AI to solve real-world challenges.
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Bondstein© Technologies Ltd.
+        caption: Feb 2023 - May 2023
+        sub_title: Product Management Intern
+        #quote: >
+        #  CGPA 3.73 (till Summer 2022)
+        description: | # this will include new lines to allow paragraphs
+          • Conducted regular product health checks to identify areas for improvement and ensure the overall success of the product.
+          • Developed comprehensive user manuals and documentation to enhance the user experience and reduce customer support inquiries.
+          • Collaborated with cross-functional teams, including developers, designers, and operations, to support sprint maintenance and ensure timely resolution of issues.
+          • Managed timelines for products under development to ensure timely delivery and alignment with business objectives.
+          • Maintained documentation for product feature feedback and development to ensure accurate and up-to-date information is available for all stakeholders.
+          • Assisted in maintaining monthly reports to track product performance and identify trends for future improvements.
+          • Conducted product quality and user experience testing to ensure the product meets the requirements and expectations of the target audience.
+
+      - layout: left
+        title: City Group
+        caption: Jun 2023 - Sep 2023
+        sub_title: Data Analyst Intern
+        #quote: >
+        #  Dhaka Board, GPA 5 (Science Group)
+        description: | # this will include new lines to allow paragraphs
+          • Conducted comprehensive data ETL (Extract, Transform, Load) processes to ensure data quality and consistency for both business and machine learning projects.
+
+          • Utilized advanced analytics techniques to derive actionable insights from diverse datasets, facilitating data-driven decision-making.
+          
+          • Generated insightful reports and visualizations, transforming raw data into meaningful information to support strategic business objectives.
+          
+          • Collaborated closely with cross-functional teams, including business stakeholders and developers, to ensure data requirements were met and projects progressed smoothly.
+          
+      - layout: left
+        title: City Group
+        caption: Sep 2023 - Present
+        sub_title: Data Scientist
+        #quote: >
+        #  Dhaka Board, GPA 5 (Science Group)
+        description: | # this will include new lines to allow paragraphs
+          • Contributed towards development of a cutting-edge NLP system, empowering non-technical team members to efficiently access and query internal data resources with ease.
+
+          • Collaborated on implementation of an advanced computer vision solution, bolstering internal security measures and streamlining personnel verification procedures with state-of-the-art facial recognition technology.
+          
+          • Orchestrated comprehensive data analysis initiatives and crafted dynamic dashboards tailored for critical business units, enabling data-driven decision-making and fostering actionable insights.
+          
+          • Engineered and executed dynamic pricing strategies for a core business unit, leveraging data-driven approaches to optimize discounting strategies and drive enhanced sales performance and profitability.
+          
+          • Played a key role the development of an innovative AI-powered system, automating key operational processes and delivering remarkable improvements in efficiency across various facets of company operations.
+
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Daffodil International University
-        caption: 2019 - Present
+        caption: 2019 - 2023
         sub_title: B.Sc. in Computer Science & Engineering
         #quote: >
         #  CGPA 3.73 (till Summer 2022)
         description: | # this will include new lines to allow paragraphs
-          *CGPA 3.74 2023*
+          *CGPA 3.76*
 
-          **Courses**
-          - Artificial Intelligence
-          - Data Mining and Machine Learning
-          - Big Data and IoT
-          - Micro-Processor, Embedded Systems and IoT
-          - Database Management System
-          - Software Engineering
-          - Data Structure
-          - Algorithm
-          - Basic Functional English and English Spoken
-          - Computer Networks
       - layout: left
         title: Milestone College
         caption: 2016 - 2017
@@ -116,22 +153,22 @@ content:
         title: Analytics Dashboard
         description: | # this will include new lines to allow paragraphs
           An analytical visualization of data from Google Analytics with Google Data Studio
-      - layout: top
-        title: Weather Forecast Application
-        description: | # this will include new lines to allow paragraphs
-          Weather forecast application for desktop developed with tkinter using the OpenWeatherMap API
-      - layout: top
-        title: Food Ordering System
-        description: | # this will include new lines to allow paragraphs
-          Web-based app to receive and process food orders in restaurants
-      - layout: top
-        title: Remote Controlled Robot
-        description: | # this will include new lines to allow paragraphs
-          Arduino based robot that can be controlled over Bluetooth using custom android app
-      - layout: top
-        title: Parking Management System
-        description: | # this will include new lines to allow paragraphs
-          Parking management system prepared using C programming language
+      # - layout: top
+      #   title: Weather Forecast Application
+      #   description: | # this will include new lines to allow paragraphs
+      #     Weather forecast application for desktop developed with tkinter using the OpenWeatherMap API
+      # - layout: top
+      #   title: Food Ordering System
+      #   description: | # this will include new lines to allow paragraphs
+      #     Web-based app to receive and process food orders in restaurants
+      # - layout: top
+      #   title: Remote Controlled Robot
+      #   description: | # this will include new lines to allow paragraphs
+      #     Arduino based robot that can be controlled over Bluetooth using custom android app
+      # - layout: top
+      #   title: Parking Management System
+      #   description: | # this will include new lines to allow paragraphs
+      #     Parking management system prepared using C programming language
 
 
       #- layout: top-middle
