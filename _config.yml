@@ -54,20 +54,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Bondstein© Technologies Ltd.
-        caption: Feb 2023 - May 2023
-        sub_title: Product Management Intern
+        title: City Group
+        caption: Sep 2023 - Present
+        sub_title: Data Scientist
         #quote: >
-        #  CGPA 3.73 (till Summer 2022)
+        #  Dhaka Board, GPA 5 (Science Group)
         description: | # this will include new lines to allow paragraphs
-          • Conducted regular product health checks to identify areas for improvement and ensure the overall success of the product.
-          • Developed comprehensive user manuals and documentation to enhance the user experience and reduce customer support inquiries.
-          • Collaborated with cross-functional teams, including developers, designers, and operations, to support sprint maintenance and ensure timely resolution of issues.
-          • Managed timelines for products under development to ensure timely delivery and alignment with business objectives.
-          • Maintained documentation for product feature feedback and development to ensure accurate and up-to-date information is available for all stakeholders.
-          • Assisted in maintaining monthly reports to track product performance and identify trends for future improvements.
-          • Conducted product quality and user experience testing to ensure the product meets the requirements and expectations of the target audience.
+          • Contributed towards development of a cutting-edge NLP system, empowering non-technical team members to efficiently access and query internal data resources with ease.
 
+          • Collaborated on implementation of an advanced computer vision solution, bolstering internal security measures and streamlining personnel verification procedures with state-of-the-art facial recognition technology.
+          
+          • Orchestrated comprehensive data analysis initiatives and crafted dynamic dashboards tailored for critical business units, enabling data-driven decision-making and fostering actionable insights.
+          
+          • Engineered and executed dynamic pricing strategies for a core business unit, leveraging data-driven approaches to optimize discounting strategies and drive enhanced sales performance and profitability.
+          
+          • Played a key role the development of an innovative AI-powered system, automating key operational processes and delivering remarkable improvements in efficiency across various facets of company operations.
+          
       - layout: left
         title: City Group
         caption: Jun 2023 - Sep 2023
@@ -84,21 +86,23 @@ content:
           • Collaborated closely with cross-functional teams, including business stakeholders and developers, to ensure data requirements were met and projects progressed smoothly.
           
       - layout: left
-        title: City Group
-        caption: Sep 2023 - Present
-        sub_title: Data Scientist
+        title: Bondstein Technologies Ltd.
+        caption: Feb 2023 - May 2023
+        sub_title: Product Management Intern
         #quote: >
-        #  Dhaka Board, GPA 5 (Science Group)
+        #  CGPA 3.73 (till Summer 2022)
         description: | # this will include new lines to allow paragraphs
-          • Contributed towards development of a cutting-edge NLP system, empowering non-technical team members to efficiently access and query internal data resources with ease.
+          • Conducted regular product health checks to identify areas for improvement and ensure the overall success of the product.
+          • Developed comprehensive user manuals and documentation to enhance the user experience and reduce customer support inquiries.
+          • Collaborated with cross-functional teams, including developers, designers, and operations, to support sprint maintenance and ensure timely resolution of issues.
+          • Managed timelines for products under development to ensure timely delivery and alignment with business objectives.
+          • Maintained documentation for product feature feedback and development to ensure accurate and up-to-date information is available for all stakeholders.
+          • Assisted in maintaining monthly reports to track product performance and identify trends for future improvements.
+          • Conducted product quality and user experience testing to ensure the product meets the requirements and expectations of the target audience.
 
-          • Collaborated on implementation of an advanced computer vision solution, bolstering internal security measures and streamlining personnel verification procedures with state-of-the-art facial recognition technology.
+
           
-          • Orchestrated comprehensive data analysis initiatives and crafted dynamic dashboards tailored for critical business units, enabling data-driven decision-making and fostering actionable insights.
-          
-          • Engineered and executed dynamic pricing strategies for a core business unit, leveraging data-driven approaches to optimize discounting strategies and drive enhanced sales performance and profitability.
-          
-          • Played a key role the development of an innovative AI-powered system, automating key operational processes and delivering remarkable improvements in efficiency across various facets of company operations.
+
 
           
   - title: Education # Title for the section
@@ -288,7 +292,7 @@ content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
-references_title: 2022
+references_title: 2024
 
 # Build settings
 remote_theme: sproogen/resume-theme
